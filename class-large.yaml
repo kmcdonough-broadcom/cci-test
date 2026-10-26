@@ -1,0 +1,6 @@
+apiVersion: infrastructure.cci.vmware.com/v1alpha2
+kind: SupervisorNamespaceClass
+metadata:
+  name: large
+spec:
+  description: Best Effort Large size

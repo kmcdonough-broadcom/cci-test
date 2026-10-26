@@ -1,0 +1,6 @@
+apiVersion: infrastructure.cci.vmware.com/v1alpha2
+kind: SupervisorNamespaceClass
+metadata:
+  name: medium
+spec:
+  description: Best Effort Medium size
