@@ -1,0 +1,6 @@
+apiVersion: infrastructure.cci.vmware.com/v1alpha2
+kind: SupervisorNamespaceClass
+metadata:
+  name: argocd-test
+spec:
+  description: Created by Argo CD GitOps test
