@@ -3,4 +3,4 @@ kind: SupervisorNamespaceClass
 metadata:
   name: medium
 spec:
-  description: Best Effort Medium size
+  description: Best Effort Medium size - Test Medium
